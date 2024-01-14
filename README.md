@@ -30,6 +30,7 @@ Stealing remains high and reasonably consistent over the years. Burglary remains
 *	Political bias in the data
 *	Under or over reporting of crime in the data
 *	Location data may not be accurate to the actual location on the crime
+*	The 2023 data was only until Sepetmber, all others were for all months.
 
 ## How to run the code
 
