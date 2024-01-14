@@ -40,9 +40,12 @@ Stealing remains high and reasonably consistent over the years. Burglary remains
 4. Each of the files should be able to be run to display the results
 
 ## References
-https://www.police.wa.gov.au/Crime/CrimeStatistics https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release https://www.abs.gov.au/statistics/people/population/migration-australia/latest-release
 
-https://www.perthnow.com.au/news/wa/public-satisfaction-with-police-up-but-new-model-needs-improving-ng-36a3bbb3119fc33453283c45345f159a 
-
-https://www.abc.net.au/news/2016-02-11/wa-police-commissioner-backs-down-on-new-policing-model/7159736 https://wamnnews.com.au/news/wa-police-overhauls-front-line-model-to-combat-rising-crime-rate/ https://thewest.com.au/politics/law-and-order/secret-police-files-liza-harvey-says-frontline-2020-policing-model-was-never-given-a-chance-ng-b881236411z https://www.abc.net.au/news/2020-04-08/coronavirus-shutdown-sees-crime-rate-drop-in-wa/12132410
+* https://www.police.wa.gov.au/Crime/CrimeStatistics https://www.abs.gov.au/statistics/people/population/national-state-and-territory-population/latest-release
+* https://www.abs.gov.au/statistics/people/population/migration-australia/latest-release
+* https://www.perthnow.com.au/news/wa/public-satisfaction-with-police-up-but-new-model-needs-improving-ng-36a3bbb3119fc33453283c45345f159a 
+* https://www.abc.net.au/news/2016-02-11/wa-police-commissioner-backs-down-on-new-policing-model/7159736
+* https://wamnnews.com.au/news/wa-police-overhauls-front-line-model-to-combat-rising-crime-rate/
+* https://thewest.com.au/politics/law-and-order/secret-police-files-liza-harvey-says-frontline-2020-policing-model-was-never-given-a-chance-ng-b881236411z
+* https://www.abc.net.au/news/2020-04-08/coronavirus-shutdown-sees-crime-rate-drop-in-wa/12132410
 
