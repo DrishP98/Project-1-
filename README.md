@@ -1,4 +1,6 @@
-# Project 1 - Crime Watchers - Analysing Crime Data from WA
+# Project 1 - Crime Watchers
+
+## Analysing Crime Data from WA
 
 In this project the Western Australian crime data from the WA Police Force website will be analysed. Juypter Notebooks will be used to analyse the data which will be presented in class with a PowerPoint Slideshow. The following trends will be looked at:
 
