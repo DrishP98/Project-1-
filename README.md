@@ -42,14 +42,14 @@ Family assault has been increasing over the years.
 Hail - Total Crimes Across Regions
 The 6 Rural locations have the Lowest total Crime
 This can be down to many factors such as population density, older average population
-These Areas bring down the average well below the mean.
-Wheatbelt has the lowest total crimes, Kimberley being furthest away from CBD has fifth lowest.
+These Areas bring down the average well below the median.
+Wheatbelt has the lowest total crimes with the total crime of 79939, despite being the region closest to CBD. Kimberley being furthest away from CBD has the fifth lowest.
 
 Hail - Total Crimes Across Regions(Metro)
-Average once the Rural areas had been removed is much closer in line with Median
-Cannington has the highest crime, followed by Mirrabooka
-These two are not close to each other
-South_West, despite being in close proximity to Cannington, has significantly lower crime than Cannington.
+Average, once the Rural areas had been removed, is much closer in line with Median.
+Cannington has the highest crime with 453368, followed by Mirrabooka with 451245.
+These two regions are not close to each other in proximity.
+South_West, despite being close to Cannington, has significantly lower crime than Cannington. This could indicate that either South_West is a good location or Cannington is a particularly crime-ridden area, or a combination of both. Could also be that the areas weren't super accurate.
 
 Mel - Total Crimes For Each Year (2007-2023)
 Significant Economic impacts for 2010 – Least year of crime: 
