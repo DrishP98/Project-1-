@@ -23,6 +23,10 @@ Types of crimes were visualised using categories due to a large number of indivi
 Family assault was highest in Kimberley, followed by Mandurah and Midland. Fraud related crime was lower in 2007-2012 compared to then onwards. It was highest in 2018. Graffiti was higher in 2007-2010 and has since dropped in numbers. Drug offences were higher in 2014-2021.
 Stealing remains high and reasonably consistent over the years. Burglary remains consistently present across the years however drops in numbers from 2020 onwards, may be due to lockdown/Covid-19. Family assault has been increasing over the years.
 
+## Highest and lowest Crime Locations:
+The crimes were grouped by region and then the total of those crimes over the 7 years was found. Geo_api was used to find the latitude and Longitude of these regions and then plot them on a map that was scaled by the total crimes. This allowed us to see the proximity and size of these crime locations against each other. These were placed onto a bar graph which showed the total crimes of the 15 regions. This allowed us to visualise and compare the totals against each other in an easy to interpret format. From these you can split the data set into two further categories, you have a cluster of dots near perth which is your Perth Metro area and 6 dots outside called the regional area. The total crime in the regional area was significantly lower than the metro area. This can be down to factors such as the average age in these areas being higher than in metro areas, majority of these areas being farms and people on these farms are more well off and have less desire to commit crimes and the population density of these areas being lower. Less people means less total crimes. The area that had the lowest crime in the last 17 years was Wheatbelt, followed by Great Southern . The area that had the most was Cannington, followed by Mirrabooka.
+
+
 
 ## Acknowledge the limitations of the data / analysis
 
