@@ -75,5 +75,5 @@ How to run the code
 
 1. A Geoapify API key will be required to run some of the project
 2. There are two folders with CSV files crime-data and other-data
-3. Load each of the files analysis-1.ipynb and analysis-2.ipynb into Juypter in the dev environment
+3. Load each of the files Crime_Data_1.ipynb and Crime_Data_2.ipynb into Juypter in the dev environment
 4. Each of the files should be able to be run to display the results
