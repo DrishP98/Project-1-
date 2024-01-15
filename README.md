@@ -5,7 +5,7 @@
 In this project the Western Australian crime data from the WA Police Force website will be analysed. Juypter Notebooks will be used to analyse the data which will be presented in class with a PowerPoint Slideshow. The following trends will be looked at:
 
 * Does population or immigration affect the overall amount of crime in WA?
-* What are the highest and lowest crimes in WA?
+* What are the highest and lowest crimes in WA? What do we see looking at types of crimes in each region and each year?
 * What are the highest and lowest crime locations in WA?
 * What was the top year for crime? Are there any yearly or monthly patterns?
 
@@ -69,6 +69,7 @@ Acknowledge the limitations of the data / analysis
 *	Political bias in the data
 *	Under or over reporting of crime in the data
 *	Location data may not be accurate to the actual location on the crime
+*	Data for 2023 only includes up to the month of September
 
 How to run the code
 
